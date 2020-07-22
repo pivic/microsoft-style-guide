@@ -12,9 +12,9 @@ ms.prod: non-product-specific
 It's OK to use *drop-down* as an adjective in content for developers if you need to describe the type of UI item or how it works.
 
 **Examples**  
-a drop-down menu  
-a drop-down combo box  
-a drop-down list box 
+a drop-down menu
+a drop-down combo box
+a drop-down list box
 
 For other audiences, use *box* if you must name the UI element.
 
